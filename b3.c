@@ -10,7 +10,7 @@ int main()
 	scanf("%f%f", &A, &B);
     sum = A * B;
 
-	printf("sum of A and B is: %f", sum);
+	printf("sum of A and B is %f", sum);
 
 	return 0;
 }
